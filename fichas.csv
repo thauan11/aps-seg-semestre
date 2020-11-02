@@ -1,0 +1,376 @@
+NOME;IDADE;CPF;DATA;HORARIO;MEDICO;EXAME
+Betina Rudolph;32;91905390017;23/10/2020;14:30;Karla;Dentista
+Lorenzo Marconi;33;91905390018;24/10/2020;15:00;Maria;Dentista
+Bem;34;91905390019;25/10/2020;15:30;Jorge;Dentista
+Martina;35;91905390020;26/10/2020;16:00;Flavio;Geriatria
+Laura;36;91905390021;27/10/2020;16:30;Anderson;Geriatria
+Olivia;37;91905390022;28/10/2020;17:00;Karla;Oftalmo
+Sophia Santino;38;91905390023;01/10/2020;17:30;Maria;Ortopedia
+Isabella Silva;39;91905390024;02/10/2020;08:00;Jorge;Oftalmo
+Madalena Maria;40;91905390025;03/10/2020;08:30;Flavio;Oftalmo
+Valentina Schulz;41;91905390026;04/10/2020;09:00;Anderson;Pediatria
+Miguel Falabela;13;91905390027;05/10/2020;09:30;Karla;Pediatria
+Alice Maravilha;14;91905390028;06/10/2020;10:00;Maria;Oftalmo
+Valentim;15;91905390029;07/10/2020;10:30;Jorge;Ortopedia
+Arthur;16;91905390030;14/10/2020;11:00;Flavio;Dentista
+Davi;17;91905390031;15/10/2020;11:30;Anderson;Ortopedia
+Manuela;18;91905390032;16/10/2020;12:00;Karla;Dentista
+Gabriel;19;91905390033;14/10/2020;12:30;Maria;Dentista
+Jorge;20;91905390034;15/10/2020;13:00;Jorge;Dentista
+Ana Silva;21;91905390035;16/10/2020;13:30;Flavio;Geriatria
+Fabricio Moreira;22;91905390036;17/10/2020;17:30;Anderson;Geriatria
+Felipe Deschamps;23;91905390037;18/10/2020;08:00;Karla;Oftalmo
+Marcos Mion;24;91905390038;19/10/2020;08:30;Maria;Ortopedia
+Anderson Silva;25;91905390039;20/10/2020;09:00;Jorge;Oftalmo
+Marisa Silva;26;91905390040;21/10/2020;09:30;Flavio;Oftalmo
+Flavia Pavanelli;27;91905390041;22/10/2020;10:00;Anderson;Pediatria
+Lucas;28;91905390042;26/10/2020;10:30;Karla;Pediatria
+Margarida;39;91905390043;27/10/2020;11:00;Maria;Oftalmo
+Luiza;40;91905390044;28/10/2020;11:30;Jorge;Ortopedia
+Phelipe;41;91905390045;01/10/2020;12:00;Flavio;Dentista
+Miguel;13;91905390046;02/10/2020;12:30;Anderson;Ortopedia
+Arthur;14;91905390047;03/10/2020;13:00;Karla;Dentista
+Heitor;15;91905390048;04/10/2020;13:30;Maria;Dentista
+Bernardo;16;91905390049;05/10/2020;14:00;Jorge;Dentista
+Theo;17;91905390050;06/10/2020;08:00;Flavio;Geriatria
+Davi;18;91905390051;07/10/2020;08:30;Anderson;Geriatria
+Gabriel;19;91905390052;08/10/2020;09:00;Karla;Oftalmo
+Pedro;20;91905390053;09/10/2020;09:30;Maria;Ortopedia
+Samuel;21;91905390054;10/10/2020;10:00;Jorge;Oftalmo
+Lorenzo;22;91905390055;11/10/2020;10:30;Flavio;Oftalmo
+Benjamin;23;91905390056;12/10/2020;11:00;Anderson;Pediatria
+Matheus;24;91905390057;13/10/2020;11:30;Karla;Pediatria
+Lucas;25;91905390058;14/10/2020;12:00;Maria;Oftalmo
+Benicio;26;91905390059;15/10/2020;12:30;Jorge;Ortopedia
+Gael;27;91905390060;16/10/2020;13:00;Flavio;Dentista
+Joaquim;28;91905390061;17/10/2020;13:30;Anderson;Ortopedia
+Nicolas;29;91905390062;18/10/2020;14:00;Karla;Dentista
+Henrique;30;91905390063;19/10/2020;14:30;Maria;Dentista
+Rafael;31;91905390064;20/10/2020;15:00;Jorge;Dentista
+Isaac Thompson;32;91905390065;21/10/2020;15:30;Flavio;Geriatria
+Guilherme Santiago;33;91905390066;22/10/2020;16:00;Anderson;Geriatria
+Murilo Couto;34;91905390067;01/10/2020;16:30;Karla;Oftalmo
+Lucca Lucco;35;91905390068;02/10/2020;17:00;Maria;Ortopedia
+Gustavo Sigueira;36;91905390069;03/10/2020;14:00;Jorge;Oftalmo
+Joao Miguel;37;91905390070;04/10/2020;14:30;Flavio;Oftalmo
+Noah Lira;38;91905390071;05/10/2020;15:00;Anderson;Pediatria
+Felipe Massa;39;91905390072;06/10/2020;15:30;Karla;Pediatria
+Anthony;40;91905390073;07/10/2020;16:00;Maria;Oftalmo
+Enzo Miguel;41;91905390074;08/10/2020;16:30;Jorge;Ortopedia
+Joao Pedro;13;91905390075;09/10/2020;17:00;Flavio;Dentista
+Pietro;14;91905390076;10/10/2020;17:30;Anderson;Ortopedia
+Bryan;15;91905390077;11/10/2020;08:00;Karla;Dentista
+Daniel;16;91905390078;12/10/2020;08:30;Maria;Dentista
+Pedro Henrique;17;91905390079;13/10/2020;17:30;Jorge;Dentista
+Enzo Gabriel;18;91905390080;08/10/2020;08:00;Flavio;Geriatria
+Leonardo;19;82876512041;09/10/2020;08:30;Anderson;Geriatria
+Vicente;20;82876512051;10/10/2020;09:00;Karla;Oftalmo
+Valentim;21;82876512061;11/10/2020;09:30;Maria;Ortopedia
+Eduardo;22;82876512071;12/10/2020;10:00;Jorge;Oftalmo
+Antonio;23;82876512081;13/10/2020;10:30;Flavio;Oftalmo
+Emanuel;24;82876512091;17/10/2020;11:00;Anderson;Pediatria
+Davi Lucca;25;82876512101;18/10/2020;11:30;Karla;Pediatria
+Bento;26;82876512111;19/10/2020;12:00;Maria;Oftalmo
+Joao;27;82876512121;20/10/2020;12:30;Jorge;Ortopedia
+Joao Lucas;28;82876512131;21/10/2020;13:00;Flavio;Dentista
+Caleb;29;82876512141;22/10/2020;13:30;Anderson;Ortopedia
+Levi;30;82876512151;23/10/2020;14:00;Karla;Dentista
+Vitor;31;82876512161;24/10/2020;14:30;Maria;Dentista
+Enrico;13;82876512171;25/10/2020;15:00;Jorge;Dentista
+Caua Raymond;14;82876512181;23/10/2020;15:30;Flavio;Geriatria
+Caio Novaes;15;82876512191;24/10/2020;16:00;Anderson;Geriatria
+Vinicius;16;82876512201;25/10/2020;16:30;Karla;Oftalmo
+Henry;17;82876512211;26/10/2020;17:00;Maria;Ortopedia
+Joao Gabriel;18;82876512221;27/10/2020;09:00;Jorge;Oftalmo
+Augusto;19;82876512231;28/10/2020;09:30;Flavio;Oftalmo
+Ravi;20;82876512241;01/10/2020;10:00;Anderson;Pediatria
+Francisco;21;82876512251;02/10/2020;10:30;Karla;Pediatria
+Otavio;22;82876512261;03/10/2020;11:00;Maria;Oftalmo
+Davi Lucas;23;82876512271;04/10/2020;11:30;Jorge;Ortopedia
+Joao Guilherme;24;82876512281;05/10/2020;12:00;Flavio;Dentista
+Thomas;25;82876512291;17/10/2020;12:30;Anderson;Ortopedia
+Icaro;26;82876512301;18/10/2020;13:00;Karla;Dentista
+Theodoro Silva;27;82876512311;19/10/2020;13:30;Maria;Dentista
+Joao Vitor;28;82876512321;20/10/2020;14:00;Jorge;Dentista
+Luiz Miguel;29;82876512331;21/10/2020;14:30;Flavio;Geriatria
+Yan;30;82876512341;22/10/2020;15:00;Anderson;Geriatria
+Yuri Thiago;31;82876512351;23/10/2020;15:30;Karla;Oftalmo
+Arthur Miguel;32;82876512361;24/10/2020;16:00;Maria;Ortopedia
+Nathan;33;82876512371;25/10/2020;16:30;Jorge;Oftalmo
+Erick;34;82876512381;26/10/2020;17:00;Flavio;Oftalmo
+Breno;35;82876512391;27/10/2020;09:00;Anderson;Pediatria
+Luiz Felipe;36;82876512401;28/10/2020;09:30;Karla;Pediatria
+Anthony Gabriel;37;82876512411;01/10/2020;10:00;Maria;Oftalmo
+Martin;38;82876512421;02/10/2020;10:30;Jorge;Ortopedia
+Matteo;29;82876512431;03/10/2020;11:00;Flavio;Dentista
+Oliver;30;82876512441;04/10/2020;11:30;Anderson;Ortopedia
+Arthur Gabriel;31;82876512451;05/10/2020;12:00;Karla;Dentista
+Ryan Nogueira;32;82876512461;06/10/2020;12:30;Maria;Dentista
+Raul Lopes;33;82876512471;07/10/2020;13:00;Jorge;Dentista
+Luan;34;82876512481;08/10/2020;13:30;Flavio;Geriatria
+Tomas;35;82876512491;09/10/2020;14:00;Anderson;Geriatria
+Mathias;36;82876512501;10/10/2020;16:30;Karla;Oftalmo
+Davi Luiz;37;82876512511;11/10/2020;17:00;Maria;Ortopedia
+Pedro Lucas;38;82876512521;01/10/2020;17:30;Jorge;Oftalmo
+Derick;39;82876512531;02/10/2020;08:00;Flavio;Oftalmo
+Vitor Hugo;40;82876512541;03/10/2020;08:30;Anderson;Pediatria
+Kaue;41;82876512551;04/10/2020;09:00;Karla;Pediatria
+Lucas Gabriel;5;82876512561;05/10/2020;09:30;Maria;Oftalmo
+Arthur Henrique;6;82876512571;06/10/2020;10:00;Jorge;Ortopedia
+Rodrigo Miguel;7;82876512581;07/10/2020;10:30;Flavio;Dentista
+Bruno;8;82876512591;08/10/2020;11:00;Anderson;Ortopedia
+Davi Miguel;9;82876512601;09/10/2020;11:30;Karla;Dentista
+Yago;10;82876512611;10/10/2020;12:00;Maria;Dentista
+Jose;11;82876512621;11/10/2020;12:30;Jorge;Dentista
+Pedro Miguel;12;82876512631;12/10/2020;13:00;Flavio;Geriatria
+Luiz Henrique;13;82876512641;13/10/2020;13:30;Anderson;Geriatria
+Hugo;14;82876512651;14/10/2020;14:00;Karla;Oftalmo
+Otto;15;82876512661;15/10/2020;14:30;Maria;Ortopedia
+Josue Mar;16;82876512671;16/10/2020;15:00;Jorge;Oftalmo
+Helena;17;82876512681;06/10/2020;15:30;Flavio;Oftalmo
+Alice;18;82876512691;07/10/2020;16:00;Anderson;Pediatria
+Laura;19;82876512701;08/10/2020;16:30;Karla;Pediatria
+Manuela;20;82876512711;09/10/2020;17:00;Maria;Oftalmo
+Valentina;21;65681297047;10/10/2020;17:30;Jorge;Ortopedia
+Sophia Oliveira;22;65681297048;11/10/2020;08:00;Flavio;Dentista
+Isabella Luiza;23;65681297049;12/10/2020;08:30;Anderson;Ortopedia
+Heloisa;24;65681297050;13/10/2020;09:00;Karla;Dentista
+Luiza;25;65681297051;14/10/2020;09:30;Maria;Dentista
+Julia;26;65681297052;15/10/2020;10:00;Jorge;Dentista
+Lorena;27;65681297053;16/10/2020;10:30;Flavio;Geriatria
+Livia;28;65681297054;17/10/2020;11:00;Anderson;Geriatria
+Maria Luiza;29;65681297055;18/10/2020;11:30;Karla;Oftalmo
+Cec�lia;30;65681297056;19/10/2020;12:00;Maria;Ortopedia
+Eloa;31;65681297057;20/10/2020;12:30;Jorge;Oftalmo
+Giovanna Concalves;32;65681297058;21/10/2020;13:00;Flavio;Oftalmo
+Maria Clara;33;65681297059;22/10/2020;13:30;Anderson;Pediatria
+Maria Eduarda;34;65681297060;23/10/2020;14:00;Karla;Pediatria
+Mariana;35;65681297061;24/10/2020;14:30;Maria;Oftalmo
+Lara;36;65681297062;25/10/2020;15:00;Jorge;Ortopedia
+Beatriz;37;65681297063;26/10/2020;15:30;Flavio;Dentista
+Antonella;38;65681297064;27/10/2020;16:00;Anderson;Ortopedia
+Maria Julia;39;65681297065;28/10/2020;13:00;Karla;Dentista
+Emanuelly;40;65681297066;12/10/2020;13:30;Maria;Dentista
+Isadora;41;65681297067;13/10/2020;14:00;Jorge;Dentista
+Ana Clara;42;65681297068;14/10/2020;14:30;Flavio;Geriatria
+Melissa;43;65681297069;15/10/2020;15:00;Anderson;Geriatria
+Ana Luiza;44;65681297070;16/10/2020;15:30;Karla;Oftalmo
+Ana Julia;45;65681297071;17/10/2020;16:00;Maria;Ortopedia
+Esther;46;65681297072;18/10/2020;14:30;Jorge;Oftalmo
+Lavinia;47;65681297073;19/10/2020;15:00;Flavio;Oftalmo
+Maite;48;65681297074;20/10/2020;15:30;Anderson;Pediatria
+Maria Cecilia;49;65681297075;21/10/2020;16:00;Karla;Pediatria
+Maria Alice;50;65681297076;06/10/2020;16:30;Maria;Oftalmo
+Sarah;20;65681297077;07/10/2020;17:00;Jorge;Ortopedia
+Elisa;21;65681297078;08/10/2020;17:30;Flavio;Dentista
+Liz;22;65681297079;09/10/2020;08:00;Anderson;Ortopedia
+Yasmin;23;65681297080;10/10/2020;08:30;Karla;Dentista
+Isabelly;24;65681297081;11/10/2020;17:30;Maria;Dentista
+Alicia;25;65681297082;12/10/2020;08:00;Jorge;Dentista
+Clara;26;65681297083;13/10/2020;08:30;Flavio;Geriatria
+Isis;27;65681297084;14/10/2020;09:00;Anderson;Geriatria
+Rebeca;28;65681297085;15/10/2020;09:30;Karla;Oftalmo
+Rafaela;29;65681297086;16/10/2020;10:00;Maria;Ortopedia
+Marina;30;65681297087;17/10/2020;10:30;Jorge;Oftalmo
+Ana Laura;31;65681297088;18/10/2020;11:00;Flavio;Oftalmo
+Maria Helena;32;65681297089;19/10/2020;11:30;Anderson;Pediatria
+Agatha;33;65681297090;20/10/2020;12:00;Karla;Pediatria
+Gabriela;34;65681297091;21/10/2020;12:30;Maria;Oftalmo
+Catarina;35;65681297092;22/10/2020;13:00;Jorge;Ortopedia
+Leticia;36;65681297093;23/10/2020;13:30;Flavio;Dentista
+Mirella;37;65681297094;24/10/2020;14:00;Anderson;Ortopedia
+Nicole;38;65681297095;25/10/2020;14:30;Karla;Dentista
+Luna;39;65681297096;26/10/2020;15:00;Maria;Dentista
+Maria Vitoria;40;65681297097;27/10/2020;15:30;Jorge;Dentista
+Olivia;41;65681297098;28/10/2020;16:00;Flavio;Geriatria
+Vitoria;42;65681297099;01/10/2020;16:30;Anderson;Geriatria
+Maria;43;65681297100;02/10/2020;17:00;Karla;Oftalmo
+Maria Fernanda;44;65681297101;03/10/2020;17:30;Maria;Ortopedia
+Ana Beatriz;45;65681297102;04/10/2020;08:00;Jorge;Oftalmo
+Allana;46;65681297103;21/10/2020;08:30;Flavio;Oftalmo
+Maria Valentina;47;65681297104;22/10/2020;09:00;Anderson;Pediatria
+Milena;48;65681297105;23/10/2020;09:30;Karla;Pediatria
+Emilly;49;69249330090;24/10/2020;10:00;Maria;Oftalmo
+Ayla;50;69249330091;25/10/2020;10:30;Jorge;Ortopedia
+Maria Flor;51;69249330092;26/10/2020;11:00;Flavio;Dentista
+Maya;52;69249330093;27/10/2020;11:30;Anderson;Ortopedia
+Bianca;53;69249330094;28/10/2020;12:00;Karla;Dentista
+Clarice;54;69249330095;01/10/2020;12:30;Maria;Dentista
+Aurora;55;69249330096;02/10/2020;16:30;Jorge;Dentista
+Larissa;56;50586947106;03/10/2020;17:00;Flavio;Geriatria
+Mariah;57;50586947105;04/10/2020;17:30;Anderson;Geriatria
+Pietra;58;50586947104;05/10/2020;08:00;Karla;Oftalmo
+La�s;59;50586947103;22/10/2020;08:30;Maria;Ortopedia
+Stella;60;50586947102;23/10/2020;09:00;Jorge;Oftalmo
+Eduarda;61;50586947101;24/10/2020;09:30;Flavio;Oftalmo
+Maria Heloisa;62;50586947100;25/10/2020;10:00;Anderson;Pediatria
+Ana Livia;63;50586947099;26/10/2020;10:30;Karla;Pediatria
+Ana Sophia;64;50586947098;27/10/2020;11:00;Maria;Oftalmo
+Maria Laura;65;50586947097;28/10/2020;11:30;Jorge;Ortopedia
+Carolina;66;50586947096;01/10/2020;12:00;Flavio;Dentista
+Ana Vitoria;67;50586947095;02/10/2020;12:30;Anderson;Ortopedia
+Malu;68;50586947094;03/10/2020;13:00;Karla;Dentista
+Gabrielly;69;50586947093;04/10/2020;13:30;Maria;Dentista
+Ana Liz;70;50586947092;05/10/2020;09:30;Jorge;Dentista
+Analu;71;50586947091;06/10/2020;10:00;Flavio;Geriatria
+Maria Sophia;72;50586947090;07/10/2020;10:30;Anderson;Geriatria
+Ana Cecilia;3;50586947089;08/10/2020;11:00;Karla;Oftalmo
+Amanda;3;50586947088;27/10/2020;11:30;Maria;Ortopedia
+Louise;4;50586947087;28/10/2020;12:00;Jorge;Oftalmo
+Heloise;5;50586947086;01/10/2020;12:30;Flavio;Oftalmo
+Fernanda;6;50586947085;02/10/2020;13:00;Anderson;Pediatria
+Ana;7;50586947084;03/10/2020;13:30;Karla;Pediatria
+Melina;8;50586947083;04/10/2020;14:00;Maria;Oftalmo
+Maria Isis;9;50586947082;05/10/2020;14:30;Jorge;Ortopedia
+Bella;10;50586947081;06/10/2020;15:00;Flavio;Dentista
+Joana;11;50586947080;07/10/2020;15:30;Anderson;Ortopedia
+Isabel;12;50586947079;08/10/2020;16:00;Karla;Dentista
+Melinda;13;50586947078;09/10/2020;16:30;Maria;Dentista
+Perola;14;50586947077;10/10/2020;11:30;Jorge;Dentista
+Agostino;15;50586947076;11/10/2020;12:00;Flavio;Geriatria
+Alessio;16;50586947075;12/10/2020;12:30;Anderson;Geriatria
+Alessandro;17;50586947074;13/10/2020;13:00;Karla;Oftalmo
+Claudio;18;50586947073;14/10/2020;13:30;Maria;Ortopedia
+Danio;19;50586947072;15/10/2020;14:00;Jorge;Oftalmo
+Dario;20;50586947071;16/10/2020;14:30;Flavio;Oftalmo
+Ezio;21;50586947070;17/10/2020;15:00;Anderson;Pediatria
+Fabrizio;22;50586947069;18/10/2020;15:30;Karla;Pediatria
+Filippo;23;50586947068;19/10/2020;16:00;Maria;Oftalmo
+Francesco;24;50586947067;20/10/2020;16:30;Jorge;Ortopedia
+Geronimo;25;50586947066;21/10/2020;17:00;Flavio;Dentista
+Giovanni;26;50586947065;22/10/2020;17:30;Anderson;Ortopedia
+Giuseppe;3;50586947064;17/10/2020;08:00;Karla;Dentista
+Luigi;3;50586947063;18/10/2020;08:30;Maria;Dentista
+Martino;4;50586947062;19/10/2020;09:00;Jorge;Dentista
+Marzio;5;50586947061;20/10/2020;14:00;Flavio;Geriatria
+Mattia;6;50586947060;21/10/2020;14:30;Anderson;Geriatria
+Orazio;7;50586947059;22/10/2020;15:00;Karla;Oftalmo
+Paolo;8;50586947058;23/10/2020;15:30;Maria;Ortopedia
+Ruggero;9;50586947057;24/10/2020;16:00;Jorge;Oftalmo
+Sandro;10;50586947056;25/10/2020;16:30;Flavio;Oftalmo
+Santino;11;50586947055;26/10/2020;17:00;Anderson;Pediatria
+Saverio;12;50586947054;09/10/2020;17:30;Karla;Pediatria
+Tommaso;13;50586947053;10/10/2020;08:00;Maria;Oftalmo
+Valerio;14;50586947052;11/10/2020;08:30;Jorge;Ortopedia
+Vittorio;15;50586947051;12/10/2020;09:00;Flavio;Dentista
+Antonio;16;50586947050;13/10/2020;09:30;Anderson;Ortopedia
+Alessandro;17;50586947049;14/10/2020;10:00;Karla;Dentista
+Federico;18;50586947048;15/10/2020;10:30;Maria;Dentista
+Francesco;19;50586947047;16/10/2020;11:00;Jorge;Dentista
+Giovanni;20;50586947046;17/10/2020;17:00;Flavio;Geriatria
+Enrico;21;50586947045;18/10/2020;17:30;Anderson;Geriatria
+Leonardo;22;50586947044;19/10/2020;08:00;Karla;Oftalmo
+Lorenzo;23;50586947043;20/10/2020;08:30;Maria;Ortopedia
+Luca;24;50586947042;05/10/2020;09:00;Jorge;Oftalmo
+Marco;25;50586947041;06/10/2020;09:30;Flavio;Oftalmo
+Matteo;26;50586947040;07/10/2020;10:00;Anderson;Pediatria
+Pietro;84;50586947039;08/10/2020;10:30;Karla;Pediatria
+Vincenzo;85;50586947038;09/10/2020;11:00;Maria;Oftalmo
+Joao Miguel;86;50586947037;10/10/2020;11:30;Jorge;Ortopedia
+Enzo Gabriel;87;50586947036;11/10/2020;12:00;Flavio;Dentista
+Maria Cecilia;88;50586947035;12/10/2020;16:00;Anderson;Ortopedia
+Maria Eduarda;3;50586947034;13/10/2020;16:30;Karla;Dentista
+Maria Alice;3;50586947033;14/10/2020;17:00;Maria;Dentista
+Joao Lucas;4;50586947032;15/10/2020;17:30;Jorge;Dentista
+Ana Julia;5;50586947031;16/10/2020;08:00;Flavio;Geriatria
+Maria Clara;6;50586947030;23/10/2020;08:30;Anderson;Geriatria
+Joao Pedro;7;50586947029;24/10/2020;09:00;Karla;Oftalmo
+Maria Luiza;8;50586947028;25/10/2020;09:30;Maria;Ortopedia
+Joao Miguel;9;50586947027;26/10/2020;10:00;Jorge;Oftalmo
+Enzo Gabriel;10;50586947026;27/10/2020;10:30;Flavio;Oftalmo
+Joao Lucas;11;50586947025;23/10/2020;11:00;Anderson;Pediatria
+Joao Pedro;12;50586947024;24/10/2020;11:30;Karla;Pediatria
+Pedro Henrique;13;50586947023;25/10/2020;12:00;Maria;Oftalmo
+Davi Lucas;14;50586947022;26/10/2020;12:30;Jorge;Ortopedia
+Davi Lucca;15;50586947021;27/10/2020;13:00;Flavio;Dentista
+Joao Gabriel;16;50586947020;28/10/2020;13:30;Anderson;Ortopedia
+Miguel;17;50586947019;01/10/2020;14:00;Karla;Dentista
+Arthur Miguel;18;50586947018;02/10/2020;14:30;Maria;Dentista
+Maria Cecilia;19;50586947017;03/10/2020;15:00;Jorge;Dentista
+Maria Eduarda;20;50586947016;04/10/2020;15:30;Flavio;Geriatria
+Maria Alice;21;50586947015;05/10/2020;16:00;Anderson;Geriatria
+Ana Julia;22;50586947014;06/10/2020;13:00;Karla;Oftalmo
+Maria Clara;23;50586947013;07/10/2020;13:30;Maria;Ortopedia
+Maria Luiza;24;50586947012;08/10/2020;14:00;Jorge;Oftalmo
+Maria Julia;25;50586947011;09/10/2020;14:30;Flavio;Oftalmo
+Ana Laura;26;50586947010;10/10/2020;15:00;Anderson;Pediatria
+Ana Clara;60;50586947009;11/10/2020;15:30;Karla;Pediatria
+Maria Vitoria;63;50586947008;12/10/2020;16:00;Maria;Oftalmo
+Enzo Gabriel ;66;50586947007;13/10/2020;16:30;Jorge;Ortopedia
+Joao Miguel;69;50586947006;14/10/2020;17:00;Flavio;Dentista
+Maria Eduarda;72;50586947005;15/10/2020;17:30;Anderson;Ortopedia
+Pedro Henrique;75;50586947004;16/10/2020;08:00;Karla;Dentista
+Maria Clara;78;50586947003;22/10/2020;08:30;Maria;Dentista
+Maria Cecilia;81;50586947002;28/10/2020;09:00;Jorge;Dentista
+Maria Julia;84;50586947001;01/10/2020;09:30;Flavio;Geriatria
+Miguel;60;50586947000;02/10/2020;10:00;Anderson;Geriatria
+Maria Luiza;60;73711808086;03/10/2020;10:30;Karla;Oftalmo
+Arthur;60;73711808085;04/10/2020;11:00;Maria;Ortopedia
+Noah;60;73711808084;05/10/2020;11:30;Jorge;Oftalmo
+Eloah;60;73711808083;06/10/2020;12:00;Flavio;Oftalmo
+Yuri;60;73711808082;07/10/2020;12:30;Anderson;Pediatria
+Ravi;60;73711808081;08/10/2020;13:00;Karla;Pediatria
+Levi;34;73711808080;09/10/2020;13:30;Maria;Oftalmo
+Luan;35;73711808079;10/10/2020;14:00;Jorge;Ortopedia
+Israel;36;73711808078;11/10/2020;14:30;Flavio;Dentista
+Iris;37;73711808077;12/10/2020;15:00;Anderson;Ortopedia
+Ariel;38;73711808076;13/10/2020;15:30;Karla;Dentista
+Lucca;39;73711808075;14/10/2020;12:30;Maria;Dentista
+Alex;40;73711808074;15/10/2020;13:00;Jorge;Dentista
+Eloah;41;73711808073;16/10/2020;13:30;Flavio;Geriatria
+Alison;42;73711808072;17/10/2020;14:00;Anderson;Geriatria
+Danielle;43;73711808071;18/10/2020;14:30;Karla;Oftalmo
+Carol;44;73711808070;19/10/2020;15:00;Maria;Ortopedia
+Adriel Silva;45;73711808069;20/10/2020;15:30;Jorge;Oftalmo
+Luca;46;73711808068;21/10/2020;16:00;Flavio;Oftalmo
+Mel;47;73711808067;17/10/2020;16:30;Anderson;Pediatria
+Elis;48;73711808066;18/10/2020;17:00;Karla;Pediatria
+Alisson;49;73711808065;19/10/2020;17:30;Maria;Oftalmo
+Ana;50;73711808064;20/10/2020;08:00;Jorge;Ortopedia
+Beatriz;51;73711808063;21/10/2020;08:30;Flavio;Dentista
+Camila;52;73711808062;17/10/2020;09:00;Anderson;Ortopedia
+Isabela;53;73711808061;18/10/2020;09:30;Karla;Dentista
+Julia;54;73711808060;19/10/2020;10:00;Maria;Dentista
+Larissa;55;73711808059;20/10/2020;10:30;Jorge;Dentista
+Laura;56;73711808058;21/10/2020;11:00;Flavio;Geriatria
+Maria;57;73711808057;22/10/2020;11:30;Anderson;Geriatria
+Sofia;58;73711808056;23/10/2020;12:00;Karla;Oftalmo
+Abby;59;73711808055;24/10/2020;12:30;Maria;Ortopedia
+Ada;60;73711808054;25/10/2020;16:30;Jorge;Oftalmo
+Addie;61;73711808053;26/10/2020;17:00;Flavio;Oftalmo
+Adela;62;73711808052;27/10/2020;17:30;Anderson;Pediatria
+Adele Sing;63;73711808051;28/10/2020;08:00;Karla;Pediatria
+Adeline;30;73711808050;01/10/2020;08:30;Maria;Oftalmo
+Adriana;33;73711808049;02/10/2020;09:00;Jorge;Ortopedia
+Adrienne;36;73711808048;03/10/2020;09:30;Flavio;Dentista
+Beth;39;73711808047;04/10/2020;10:00;Anderson;Ortopedia
+Bethany;42;73711808046;05/10/2020;10:30;Karla;Dentista
+Betsy;13;73711808045;06/10/2020;11:00;Maria;Dentista
+Bette;14;73711808044;07/10/2020;11:30;Jorge;Dentista
+Bettie;15;73711808043;08/10/2020;12:00;Flavio;Geriatria
+Betty;16;73711808042;22/10/2020;12:30;Anderson;Geriatria
+Bettye;17;73711808041;23/10/2020;13:00;Karla;Oftalmo
+Beulah;18;73711808040;24/10/2020;13:30;Maria;Ortopedia
+Beverley;19;73711808039;25/10/2020;14:00;Jorge;Oftalmo
+Beverly;20;73711808038;26/10/2020;14:30;Flavio;Oftalmo
+Carolyn Beverly;21;73711808037;27/10/2020;15:00;Anderson;Pediatria
+Carrie;22;73711808036;28/10/2020;15:30;Karla;Pediatria
+Casandra;23;73711808035;01/10/2020;16:00;Maria;Oftalmo
+Casey;24;73711808034;02/10/2020;16:30;Jorge;Ortopedia
+Cassandra;25;73711808033;03/10/2020;17:00;Flavio;Dentista
+Cassie;26;73711808032;04/10/2020;17:30;Anderson;Ortopedia
+Catalina;27;73711808031;05/10/2020;08:00;Karla;Dentista
+Wanda;28;73711808030;06/10/2020;08:30;Maria;Dentista
+Wendi;29;73711808029;07/10/2020;09:00;Jorge;Dentista
+Wendy;30;73711808028;08/10/2020;09:30;Flavio;Geriatria
+Whitney;31;73711808027;09/10/2020;10:00;Anderson;Geriatria
+Wilda;32;73711808026;10/10/2020;10:30;Karla;Oftalmo
+Willa;33;73711808025;11/10/2020;11:00;Maria;Ortopedia
+Joao Pedro;60;73711808024;12/10/2020;11:30;Jorge;Oftalmo
+Pedro Henrique;60;73711808023;13/10/2020;12:00;Flavio;Oftalmo
+Joao V�ctor;45;73711808022;14/10/2020;12:30;Anderson;Pediatria
+Joao Miguel;44;73711808021;15/10/2020;13:00;Karla;Pediatria
+Enzo Gabriel;20;73711808020;16/10/2020;13:30;Maria;Oftalmo
+Victor Hugo;90;73711808019;09/10/2020;14:00;Jorge;Ortopedia
+Joao Paulo;60;73711808018;10/10/2020;14:30;Flavio;Dentista
+Cleber;18;259965874;31/10/2020;08:30;Flavio;Dentista
